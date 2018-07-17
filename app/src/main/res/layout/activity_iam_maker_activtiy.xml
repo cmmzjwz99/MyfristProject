@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical"
+    tools:context="com.lzhy.moneyhll.me.maker.IamMakerActivity">
+
+    <include layout="@layout/title_bar"/>
+
+    <LinearLayout
+        android:id="@+id/maker_mine1"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@mipmap/my_project_maker"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:drawableRight="@mipmap/grayright"
+            android:paddingLeft="20dp"
+            android:text="我的项目"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_tittle"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/maker_mine2"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@mipmap/customer_order_maker"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:drawableRight="@mipmap/grayright"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            android:text="商品类订单"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_tittle"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/maker_mine3"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@mipmap/order_detail_maker"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:drawableRight="@mipmap/grayright"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            android:text="游玩类订单"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_tittle"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/maker_mine4"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@mipmap/code_maker"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:drawableRight="@mipmap/grayright"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            android:text="数字码核销"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_tittle"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/maker_mine5"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@mipmap/scan_maker"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:drawableRight="@mipmap/grayright"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            android:text="扫一扫核销"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_tittle"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/maker_mine6"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@mipmap/icon_tixian"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:drawableRight="@mipmap/grayright"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            android:text="龙币提现"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_tittle"/>
+
+    </LinearLayout>
+</LinearLayout>

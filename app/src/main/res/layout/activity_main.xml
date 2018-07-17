@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@+id/tab_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_line_bottom_1dp"
+            android:layout_above="@+id/total_hight"/>
+
+        <RelativeLayout
+            android:background="@drawable/bg_line_top_1dp"
+            android:id="@+id/total_hight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true">
+
+            <RadioGroup
+                android:id="@+id/tabs_rg1"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:background="@color/new_year_color_tab"
+                android:orientation="horizontal"
+                android:paddingBottom="0dp"
+                android:paddingTop="2dp">
+
+                <RadioButton
+                    android:id="@+id/tab_rb_a1"
+                    style="@style/tabhost_styles"
+                    android:checked="true"
+                    android:drawablePadding="3dp"
+                    android:drawableTop="@drawable/selector_icon_home"
+                    android:text="首页"
+                    android:textColor="@drawable/b_text_color_selector"/>
+
+                <RadioButton
+                    android:id="@+id/tab_rb_b2"
+                    style="@style/tabhost_styles"
+                    android:drawablePadding="3dp"
+                    android:drawableTop="@drawable/selector_icon_motorhomes"
+                    android:text="@string/rent_motorhome"
+                    android:textColor="@drawable/b_text_color_selector"/>
+
+                <RadioButton
+                    android:id="@+id/tab_rb_c3"
+                    style="@style/tabhost_styles"
+                    android:drawablePadding="3dp"
+                    android:drawableTop="@drawable/selector_icon_whereplay"
+                    android:text="去哪玩"
+                    android:textColor="@drawable/b_text_color_selector"/>
+
+                <RadioButton
+                    android:id="@+id/tab_rb_d4"
+                    style="@style/tabhost_styles"
+                    android:drawablePadding="3dp"
+                    android:drawableTop="@drawable/selector_icon_playwhat"
+                    android:text="玩什么"
+                    android:textColor="@drawable/b_text_color_selector"/>
+                <RadioButton
+                    android:id="@+id/tab_rb_e5"
+                    style="@style/tabhost_styles"
+                    android:drawablePadding="3dp"
+                    android:drawableTop="@drawable/selector_icon_mine"
+                    android:text="我的"
+                    android:textColor="@drawable/b_text_color_selector"/>
+            </RadioGroup>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

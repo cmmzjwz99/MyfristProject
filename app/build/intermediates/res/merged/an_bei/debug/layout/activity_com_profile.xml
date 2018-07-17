@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <include layout="@layout/title_bar"/>
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_below="@+id/title_bar"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/shadow"
+        android:paddingLeft="10dp"
+        android:paddingRight="15dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@mipmap/local_server"/>
+        <TextView
+            android:id="@+id/address"
+            android:singleLine="true"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_height="wrap_content"
+            android:text="浙江省杭州市下城区绍兴路87号"
+            android:textColor="@color/gray_333"
+            android:textSize="16sp"/>
+        <Button
+            android:id="@+id/lzy_nav_btn"
+            android:layout_width="70dp"
+            android:layout_height="30dp"
+            android:paddingLeft="5dp"
+            android:background="@drawable/buttonstyle"
+            android:drawableLeft="@mipmap/lzydh"
+            android:textColor="#FFBE34"
+            android:text="导航"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,4 @@
+#Sat Jun 16 13:10:35 CST 2018
+base.0=/Users/hc101/Downloads/moneyhll/app/build/intermediates/transforms/dex/an_bei/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/hc101/Downloads/moneyhll/app/build/intermediates/transforms/dex/an_bei/debug/folders/1000/1f/main/classes.dex

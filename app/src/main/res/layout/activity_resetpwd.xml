@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/bg"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical">
+
+    <include layout="@layout/title_bar"></include>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/bg_line_00ffffff_bottom_1dp">
+
+        <EditText
+            android:id="@+id/ed_pwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="请输入新密码"
+            android:inputType="textPassword"
+            android:longClickable="false"
+            android:maxLength="16"
+            android:minLines="6"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHint="@color/gray_999"
+            android:textCursorDrawable="@null"
+            android:textSize="@dimen/text_tittle"/>
+
+
+        <CheckBox
+            android:id="@+id/cb_pwdiv"
+            android:layout_width="25dp"
+            android:layout_height="13dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/pwd_status_bg"
+            android:button="@null"
+            />
+
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/tv_finsh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/border_yellow_bg_yellow_round"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="完成"
+        android:textColor="@color/white"
+        android:textSize="20sp"/>
+
+</LinearLayout>

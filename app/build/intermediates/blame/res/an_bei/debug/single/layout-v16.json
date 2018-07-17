@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

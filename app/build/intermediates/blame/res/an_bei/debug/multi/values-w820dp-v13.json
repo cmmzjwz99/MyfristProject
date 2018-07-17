@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\incremental\\mergeAn_beiDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 57,
+                        "endOffset": 628
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/incremental/mergeAn_beiDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/hc101/Downloads/moneyhll/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 57,
+                        "endOffset": 628
+                    }
+                }
+            }
+        ]
+    }
+]

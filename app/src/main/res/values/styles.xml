@@ -1,0 +1,116 @@
+<resources>
+    <!--
+           Base application theme, dependent on API level. This theme is replaced
+           by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+       -->
+    <style name="AppBaseTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <!-- 首页（第一级页面不让Activity透明） -->
+    <style name="mainPageStyle" parent="AppTheme">
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="windowActionBar">true</item>
+    </style>
+
+    <!-- 非首页（非第一级页面让Activity透明） -->
+    <style name="otherPageStyle" parent="AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="windowActionBar">true</item>
+    </style>
+    <!-- 非首页（秒杀界面） -->
+    <style name="otherPageStyle_snap" parent="AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="windowActionBar">true</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="tabhost_styles">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">top|center_horizontal</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="AppBootTheme" parent="AppTheme">
+        <!--<item name="android:windowBackground">@mipmap/welcome_xxhdpi</item>-->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="txt_shallowgray_14">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/gray_999</item>
+    </style>
+
+    <!--账号登陆-->
+    <style name="MainBottomRadioButton">
+
+        <item name="android:layout_width">0dp</item>
+
+        <item name="android:layout_height">match_parent</item>
+
+        <item name="android:layout_weight">1</item>
+
+        <item name="android:button">@null</item>
+
+        <item name="android:gravity">center</item>
+
+        <item name="android:textColor">@drawable/tab_text_color</item>
+        <item name="android:textSize">16sp</item>
+
+    </style>
+    <style name="tabhost_styles_collect">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">top|center_horizontal</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/gray_333</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+    <style name="group_styles">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">top|center_horizontal</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@drawable/b_group_text_color_selector</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">@drawable/bg_button_color_selector</item>
+    </style>
+
+
+    <!--weixin-->
+    <!-- Navigation Header -->
+
+    <style name="PayDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/round_rect_translucent_black_shape</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <!--支付密码编辑框-->
+</resources>

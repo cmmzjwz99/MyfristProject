@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:fresco="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/bg"
+              android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/ll_center"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:background="@mipmap/wdbg"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:id="@+id/ll_top"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_gravity=""
+                    android:layout_marginTop="10dp">
+
+                    <com.facebook.drawee.view.SimpleDraweeView
+                        android:id="@+id/iv_head_portrait"
+                        android:layout_width="55dp"
+                        android:layout_height="55dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@mipmap/ic_mine"
+                        fresco:roundAsCircle="true"
+                        fresco:roundedCornerRadius="45dp"
+                        fresco:roundingBorderColor="@color/white"
+                        fresco:roundingBorderWidth="1dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_toRightOf="@id/iv_head_portrait"
+                        android:orientation="horizontal">
+
+
+                        <TextView
+                            android:id="@+id/tv_nick_name"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:text=""
+                            android:textColor="@color/new_year_color_mine_text"
+                            android:textSize="@dimen/text_tittle"/>
+
+                        <RelativeLayout
+                            android:id="@+id/rl_long_ma"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3">
+
+
+                            <TextView
+                                android:id="@+id/tv_long_code"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:ellipsize="end"
+                                android:text=""
+                                android:textColor="@color/new_year_color_mine_text"
+                                android:textSize="@dimen/text_tittle"/>
+
+
+                        </RelativeLayout>
+
+
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_marginBottom="15dp"
+                    android:orientation="horizontal"
+                    android:paddingTop="15dp">
+
+                    <LinearLayout
+                        android:id="@+id/ll_mine_fcq"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/tv_roll_number"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0"
+                            android:textColor="@color/new_year_color_mine_text"
+                            android:textSize="@dimen/text_tittle"/>
+
+                        <TextView
+                            android:id="@+id/tv_motor_roll"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@mipmap/fcq"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/text_tittle"/>
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/ll_long_bi"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/tv_cash_num"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0"
+                            android:textColor="@color/new_year_color_mine_text"
+                            android:textSize="@dimen/text_tittle"/>
+
+                        <TextView
+                            android:id="@+id/tv_long_bi"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@mipmap/lb"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/text_tittle"/>
+
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/tv_ball_num"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0"
+                            android:textColor="@color/new_year_color_mine_text"
+                            android:textSize="@dimen/text_tittle"/>
+
+                        <TextView
+                            android:id="@+id/tv_long_zhu"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@mipmap/lz"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/text_tittle"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <com.lzhy.moneyhll.custom.NoScorllGridView
+                android:id="@+id/gv_vip_center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/yellow"
+                android:horizontalSpacing="1dp"
+                android:numColumns="4"
+                android:verticalSpacing="1dp"/>
+
+            <LinearLayout
+                android:id="@+id/ll_carTicket"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="房车券"
+                        android:textColor="@color/gray_333"
+                        android:textSize="@dimen/text_normal"/>
+
+                    <TextView
+                        android:id="@+id/tv_more"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:drawableRight="@mipmap/icon_more"
+                        android:text="更多"
+                        android:textColor="@color/gray_666"
+                        android:textSize="@dimen/text_normal"/>
+
+                </RelativeLayout>
+
+                <com.lzhy.moneyhll.custom.NoScrollListView
+                    android:id="@+id/ll_car_ticket"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

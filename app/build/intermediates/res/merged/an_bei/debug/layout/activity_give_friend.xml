@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:fresco="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/bg"
+              android:orientation="vertical">
+
+    <include layout="@layout/title_bar"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/iv_head_portrait"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="@mipmap/ic_mine"
+            fresco:failureImage="@mipmap/ic_mine"
+            fresco:placeholderImage="@mipmap/ic_mine"
+            fresco:roundAsCircle="true"
+            fresco:roundedCornerRadius="45dp"
+            fresco:roundingBorderColor="@color/white"
+            fresco:roundingBorderWidth="1dp"/>
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/iv_head_portrait"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text=""
+            android:textColor="@color/gray_999"
+            android:textSize="@dimen/text_tittle"/>
+
+        <TextView
+            android:id="@+id/tv_gift_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_name"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text=""
+            android:textColor="@color/gray_999"
+            android:textSize="@dimen/text_tittle"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_line_00ffffff_bottom_1dp"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="赠送龙珠"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_tittle"/>
+
+            <EditText
+                android:id="@+id/et_pear_num"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@null"
+                android:hint="请输入赠送龙珠数量"
+                android:inputType="number"
+                android:longClickable="false"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/gray_999"
+                android:textCursorDrawable="@null"
+                android:textSize="@dimen/text_normal"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_line_00ffffff_bottom_1dp"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="赠送房车券"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_tittle"/>
+
+            <EditText
+                android:id="@+id/et_couponNum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@null"
+                android:hint="请输入赠送房车劵数量"
+                android:inputType="number"
+                android:longClickable="false"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/gray_999"
+                android:textCursorDrawable="@null"
+                android:textSize="@dimen/text_normal"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_give"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/border_yellow_bg_yellow_round"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="确定赠送"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_tittle"/>
+
+
+</LinearLayout>

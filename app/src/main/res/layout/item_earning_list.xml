@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:background="@drawable/bg_line_00ffffff_bottom_1dp"
+        android:paddingBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tv_order_type"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="龙珠商品订单"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_normal"/>
+            <TextView
+                android:id="@+id/tv_order_number"
+                android:layout_alignParentRight="true"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="31.8"
+                android:textColor="@color/yellow"
+                android:textSize="@dimen/text_normal"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tv_order_time"
+                android:layout_marginLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2016-07-02 17:18:14"
+                android:textColor="@color/gray_999"
+                android:textSize="@dimen/text_normal"/>
+            <TextView
+                android:id="@+id/tv_order_state"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="已结算"
+                android:textColor="@color/gray_999"
+                android:textSize="@dimen/text_normal"/>
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

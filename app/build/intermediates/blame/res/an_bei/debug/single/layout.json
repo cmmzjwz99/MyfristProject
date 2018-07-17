@@ -1,0 +1,1714 @@
+[
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_reset_pay_psw.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_reset_pay_psw.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_action.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_play_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_play_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_home_interval.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_home_interval.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/pull_to_refresh_header.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_whereplay_pro.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_whereplay_pro.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fm_go_where_main.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fm_go_where_main.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_already_used_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_already_used_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_register.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_template_big_media.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\title_bar.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\title_bar.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_home_maker.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_home_maker.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_maker_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_maker_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_add_adress.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_add_adress.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fm_home.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fm_home.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\ppw_band.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\ppw_band.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_motor_home_appoint.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_motor_home_appoint.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fragment_history.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_buy_project.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_buy_project.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_car_room_display.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_car_room_display.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_give_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_give_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/xlistview_footer.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_project_order_detail.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_project_order_detail.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_my_swipe_back.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_my_swipe_back.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_main.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_play_order_details.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_play_order_details.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fm_home.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fm_home.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_pay_motorhome.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_pay_motorhome.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_order_detail_common.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_order_detail_common.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_mine_adress.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_mine_adress.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_login.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/dialog_input_pwd.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/dialog_input_pwd.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_hquality_route.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_hquality_route.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_give_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_give_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_resetpwd.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_resetpwd.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_ti_xian_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_ti_xian_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_home_camp.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_home_camp.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_go_where_head1.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_go_where_head1.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\empty_layout_img_top.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\empty_layout_img_top.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\dialog_pay.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\dialog_pay.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_camp_type.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_camp_type.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_is_maker_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_is_maker_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fragment_mine.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_motorhome_show.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_motorhome_show.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_camp_type.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_camp_type.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/dialog_base.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/dialog_base.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\dialog_updata.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\dialog_updata.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_now.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_now.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_verification_result.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_verification_result.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_sure_goods_type.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_sure_goods_type.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fragment_earning.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fragment_earning.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_resetpwd.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_resetpwd.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fm_goods_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fm_goods_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\view_svprogressdefault.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\svprogresshud\\1.0.6\\res\\layout\\view_svprogressdefault.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_template_media.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_appointment.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_appointment.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_make_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_make_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fragment_earning.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fragment_earning.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_go_where_head1.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_go_where_head1.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_not_use_order_detail.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_not_use_order_detail.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/title_bar.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/title_bar.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_home_grid.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_home_grid.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_give_friend.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_give_friend.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_add_view.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_add_view.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_xie_yi.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_xie_yi.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_now.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_now.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_mine.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_mine.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_goods_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_goods_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_register.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_mine_adress.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_mine_adress.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_maker_goods_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_maker_goods_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_iam_maker_activtiy.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_iam_maker_activtiy.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_maker_order_detail.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_maker_order_detail.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_dragon_ball_type.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_dragon_ball_type.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_forget.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_my_project_gridview.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_my_project_gridview.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/view_pager1.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/view_pager1.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\dialog_returned_goods.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\dialog_returned_goods.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_center.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_center.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_make_dragon_ball.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_make_dragon_ball.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_motorhome_show.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_motorhome_show.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/add_view_cost.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/add_view_cost.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_selector_camp.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_selector_camp.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_order_detail_common.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_order_detail_common.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_iam_maker_activtiy.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_iam_maker_activtiy.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/textview.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.jungly/GridPasswordView/0.1/res/layout/textview.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\divider.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.jungly\\GridPasswordView\\0.1\\res\\layout\\divider.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_add_address.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_add_address.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_sure_goods_type.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_sure_goods_type.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_home_camp_top.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_home_camp_top.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_camp_type1.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_camp_type1.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_motor_home_appoint_grid.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_motor_home_appoint_grid.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_pay_motorhome.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_pay_motorhome.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_maker_details.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_maker_details.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_snapup_homebanner.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_snapup_homebanner.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_my_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_my_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fragment_play_what.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fragment_play_what.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_ti_xian_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_ti_xian_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\xlistview_footer.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_chong_zhi.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_chong_zhi.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fm_go_where_main.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fm_go_where_main.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_com_profile.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_com_profile.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_buy_project.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_buy_project.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_give_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_give_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_splash.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_splash.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_home_maker_button.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_home_maker_button.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_appointment_top.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_appointment_top.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_mine.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_mine.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_guide.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_guide.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\camera.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_earning.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_earning.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_make_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_make_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_wallet.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_wallet.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_give_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_give_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/divider.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.jungly/GridPasswordView/0.1/res/layout/divider.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_motorhome_appoint_top.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_motorhome_appoint_top.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_earning.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_earning.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fm_goods_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fm_goods_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_whereplay_key.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_whereplay_key.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/dialog_verification_results.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/dialog_verification_results.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_earning.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_earning.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_play_what_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_play_what_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/ppw_band.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/ppw_band.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\dialog_input_pwd.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\dialog_input_pwd.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_search_view.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_goods_sure.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_goods_sure.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/popwindow_whereplay.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/popwindow_whereplay.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_ticket_book.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_ticket_book.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_maker_goods_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_maker_goods_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\mytoast.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\mytoast.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_template_media.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_choose_pay_type.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_choose_pay_type.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_bind_roll.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_bind_roll.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_motor_home_appoint_grid.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_motor_home_appoint_grid.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_my_earning.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_my_earning.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_my_maker_project.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_my_maker_project.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_play_what_grid.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_play_what_grid.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_goods_order_detail.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_goods_order_detail.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_buy_stock.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_buy_stock.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_guide.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_guide.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fragment_now.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fragment_now.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_media_action.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_my_project.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_my_project.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fragment_ti_xian.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fragment_ti_xian.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/dialog_updata.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/dialog_updata.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_recharge_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_recharge_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_cost_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_cost_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_motorhome_show_head.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_motorhome_show_head.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_play_what_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_play_what_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fm_my_earning.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fm_my_earning.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/dialog_returned_goods.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/dialog_returned_goods.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fragment_mine.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fragment_mine.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_add_view.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_add_view.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\slider_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_motorhome_show_head.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_motorhome_show_head.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/progress_down.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/progress_down.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_map.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_map.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fragment_ti_xian.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fragment_ti_xian.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_goods_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_goods_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fm_motorhome_main.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fm_motorhome_main.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_home_category.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_home_category.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/custom_marker_view.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/custom_marker_view.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/view_svprogressdefault.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.bigkoo/svprogresshud/1.0.6/res/layout/view_svprogressdefault.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_setting_login_psw.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_setting_login_psw.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_project_details.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_project_details.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_recipt_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_recipt_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_camping_details.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_camping_details.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_hquality_route.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_hquality_route.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_history.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\add_view_cost.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\add_view_cost.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_home_maker_top.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_home_maker_top.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_apply.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_apply.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_motor_home_appoint.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_motor_home_appoint.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/render_type_text.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/render_type_text.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_my_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_my_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_map.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_earning.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_earning.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_goods_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_goods_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_camping_details.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_camping_details.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_play_order_details.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_play_order_details.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/view_pager2.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/view_pager2.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\popwindow_choose_map.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\popwindow_choose_map.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_selector_camp.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_selector_camp.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_maker_play_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_maker_play_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_goods_sure.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_goods_sure.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_appointment_top.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_appointment_top.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\gridpasswordview.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.jungly\\GridPasswordView\\0.1\\res\\layout\\gridpasswordview.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_wallet.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_wallet.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_earning_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_earning_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_add_address.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_add_address.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\textview.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.jungly\\GridPasswordView\\0.1\\res\\layout\\textview.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_maker_details.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_maker_details.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_add_address_foot.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_add_address_foot.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_my_team.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_my_team.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_goods_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_goods_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_recipt_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_recipt_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_motor_home_roll.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_motor_home_roll.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_maker_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_maker_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_splash.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_splash.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/layout_svprogresshud.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.bigkoo/svprogresshud/1.0.6/res/layout/layout_svprogresshud.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_dragon_ball.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_dragon_ball.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\hq_route_item_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\hq_route_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\banner_view.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\banner_view.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_my_team.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_my_team.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_motorhome_appoint_top.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_motorhome_appoint_top.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_car_room_display.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_car_room_display.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_my_appointent.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_my_appointent.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\view_pager2.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\view_pager2.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_home_interval.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_home_interval.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_ti_xian_item_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_ti_xian_item_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_com_profile.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_com_profile.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_go_where_etape.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_go_where_etape.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\progress_down.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\progress_down.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_camp_type1.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_camp_type1.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fm_motorhome_main.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fm_motorhome_main.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_whereplay_key.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_whereplay_key.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_maker_play_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_maker_play_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_home_maker_button.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_home_maker_button.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_project_order_detail.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_project_order_detail.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_appointment.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_appointment.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_dragon_ball.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_dragon_ball.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/banner_view.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/banner_view.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_ti_xian_item_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_ti_xian_item_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_ti_xian_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_ti_xian_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/pop_add_address.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/pop_add_address.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_maker_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_maker_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_give.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_give.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_dragonball_details.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_dragonball_details.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_home_maker.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_home_maker.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_goods_order_detail.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_goods_order_detail.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_verification_result.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_verification_result.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_scan.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_buy_stock.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_buy_stock.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/swipeback_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/moneyhll/lib_slide_back/unspecified/res/layout/swipeback_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_goods_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_goods_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\dialog_verification_results.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\dialog_verification_results.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_motorhome.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_motorhome.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/fragment_now.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/fragment_now.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_recharge_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_recharge_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/slider_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_motorhome_show.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_motorhome_show.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fragment_history.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_forget.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_forget.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_my_maker_project.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_my_maker_project.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_my_project_gridview.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_my_project_gridview.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_history.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_history.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/gridpasswordview.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.jungly/GridPasswordView/0.1/res/layout/gridpasswordview.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_car_room_display.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_car_room_display.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_cost_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_cost_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\swipeback_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\moneyhll\\lib_slide_back\\unspecified\\res\\layout\\swipeback_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fm_my_earning.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fm_my_earning.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\popwindow_choose_pic.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\popwindow_choose_pic.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_setting_login_psw.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_setting_login_psw.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_dragon_ball_type1.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_dragon_ball_type1.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_xie_yi.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_xie_yi.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_is_maker_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_is_maker_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_number_verification.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_number_verification.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_snapup_homebanner.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_snapup_homebanner.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_recharge_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_recharge_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/camera.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/camera.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_earning_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_earning_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\dialog_base.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\dialog_base.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\fragment_play_what.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\fragment_play_what.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_play_what_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_play_what_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_loading.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_loading.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\render_type_text.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_my_appointent.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_my_appointent.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_order_head.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_order_head.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_add_adress.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_add_adress.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\layout_svprogresshud.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\svprogresshud\\1.0.6\\res\\layout\\layout_svprogresshud.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_loading.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_loading.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_home_camp_top.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_home_camp_top.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/empty_layout_img_top.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/empty_layout_img_top.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_media_action.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_apply.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_apply.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\custom_marker_view.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\custom_marker_view.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\pop_add_address.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\pop_add_address.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_my_swipe_back.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_my_swipe_back.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_home_category.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_home_category.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_main.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\popwindow_whereplay.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\popwindow_whereplay.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_play_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_play_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_goods_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_goods_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/popwindow_choose_map.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/popwindow_choose_map.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_home_maker_top.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_home_maker_top.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_reset_pay_psw.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_reset_pay_psw.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/dialog_pay.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/dialog_pay.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_home_camp.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_home_camp.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_login.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/popwindow_choose_pic.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/popwindow_choose_pic.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/dialog_use_stock.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/dialog_use_stock.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_result.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_result.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_dragonball_details.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_dragonball_details.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_go_where_etape.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_go_where_etape.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_already_used_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_already_used_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_scan.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_scan.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_add_address_foot.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_add_address_foot.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_motor_home_roll.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_motor_home_roll.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_bind_roll.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_bind_roll.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_give_friend.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_give_friend.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_result.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_dragon_ball.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_dragon_ball.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_my_team.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_my_team.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_not_use_order_detail.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_not_use_order_detail.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_ti_xian_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_ti_xian_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_my_team.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_my_team.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\pop_share.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\pop_share.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\act_make_dragon_ball.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\act_make_dragon_ball.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_ticket_book.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_ticket_book.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_maker_order_detail.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_maker_order_detail.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_car_room_display.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_car_room_display.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_setting_pay_psw.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_setting_pay_psw.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_dragon_ball_type1.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_dragon_ball_type1.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_dragon_ball_type.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_dragon_ball_type.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_order_head.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_order_head.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/hq_route_item_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/hq_route_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_number_verification.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_number_verification.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_play_what_grid.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_play_what_grid.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/mytoast.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/mytoast.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_maker_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_maker_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_action.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_home_grid.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_home_grid.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_motorhome_show.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_motorhome_show.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_my_earning.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_my_earning.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\dialog_use_stock.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\dialog_use_stock.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_banner.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_banner.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_banner.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_banner.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_give.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_give.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_choose_pay_type.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_choose_pay_type.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/pop_share.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/pop_share.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_order.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_order.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_maker_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_maker_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_play_what_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_play_what_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_tixian.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_tixian.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_motorhome.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_motorhome.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_center.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_center.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_whereplay_pro.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_whereplay_pro.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\view_pager1.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\view_pager1.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_my_project.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_my_project.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_setting_pay_psw.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_setting_pay_psw.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_project_details.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_project_details.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\activity_chong_zhi.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\activity_chong_zhi.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/item_dragon_ball.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/item_dragon_ball.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/act_maker_list.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/act_maker_list.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\layout\\item_recharge_record.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\src\\main\\res\\layout\\item_recharge_record.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/layout/activity_tixian.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/src/main/res/layout/activity_tixian.xml"
+    }
+]

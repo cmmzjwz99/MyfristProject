@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    tools:context="com.lzhy.moneyhll.motorhome.MakeOrderActivity">
+
+    <include layout="@layout/title_bar"/>
+
+    <Button
+        android:id="@+id/sure"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/yellow"
+        android:text="下单"
+        android:textSize="16sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/sure"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/title_bar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_line_bottom_1dp">
+
+                <com.facebook.drawee.view.SimpleDraweeView
+                    android:id="@+id/image"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:paddingLeft="20dp"
+                    android:paddingTop="20dp"
+                    fresco:actualImageScaleType="centerInside"
+                    fresco:failureImage="@mipmap/no_image"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/image"
+                    android:orientation="vertical"
+                    android:paddingLeft="30dp">
+
+                    <TextView
+                        android:id="@+id/name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp"/>
+
+                    <TextView
+                        android:id="@+id/driving_type"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:lines="1"
+                        android:paddingTop="5dp"
+                        android:text="@string/driving_type"
+                        android:textColor="@color/gray_999"
+                        android:textSize="14dp"/>
+
+                    <TextView
+                        android:id="@+id/website"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:lines="1"
+                        android:paddingBottom="8dp"
+                        android:paddingTop="5dp"
+                        android:text="@string/website"
+                        android:textColor="@color/gray_999"
+                        android:textSize="14dp"/>
+
+                    <TextView
+                        android:id="@+id/type"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="3dp"
+                        android:background="@color/yellow"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:paddingTop="2dp"
+                        android:text="自行式"
+                        android:textSize="14sp"/>
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:id="@+id/car_stock"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_button_rad_r5dp"
+                    android:paddingBottom="3dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingTop="3dp"
+                    android:text="使用房车劵"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"/>
+
+                <TextView
+                    android:id="@+id/text1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:paddingTop="2dp"
+                    android:text="/日"
+                    android:textColor="@color/red"
+                    android:textSize="12sp"/>
+
+                <TextView
+                    android:id="@+id/price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toLeftOf="@+id/text1"
+                    android:textColor="@color/red"
+                    android:textSize="16sp"/>
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="@drawable/bg_top_bottom_ddd_1dp"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="10dp"
+                    android:text="@string/get_car_time"
+                    android:textColor="@color/gray_999"
+                    android:textSize="14sp"/>
+
+                <TextView
+                    android:id="@+id/get_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:drawableRight="@mipmap/grayright"
+                    android:paddingBottom="10dp"
+                    android:textColor="@color/gray_666"
+                    android:textSize="16sp"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <RadioGroup
+                    android:id="@+id/group1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/radio1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:button="@drawable/selector_check_box"
+                        android:clickable="false"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="20dp"
+                        android:text="送车上门"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                    <RadioButton
+                        android:id="@+id/get_website"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_alignBaseline="@+id/checkbox2"
+                        android:layout_alignBottom="@+id/checkbox2"
+                        android:button="@drawable/selector_check_box"
+                        android:checked="true"
+                        android:clickable="false"
+                        android:paddingLeft="5dp"
+                        android:text="网点自提"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+                </RadioGroup>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentTop="true"
+                    android:gravity="center_vertical"
+                    android:text="@string/get_car_type"
+                    android:textColor="@color/gray_999"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:id="@+id/id_text1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/get_car_address"
+                    android:textColor="@color/gray_999"
+                    android:textSize="14sp"/>
+
+                <TextView
+                    android:id="@+id/get_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_toRightOf="@+id/id_text1"
+                    android:ellipsize="end"
+                    android:gravity="right"
+                    android:lines="1"
+                    android:textColor="@color/gray_666"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="@drawable/bg_top_bottom_ddd_1dp"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="10dp"
+                    android:text="@string/set_car_time"
+                    android:textColor="@color/gray_999"
+                    android:textSize="14sp"/>
+
+                <TextView
+                    android:id="@+id/set_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:drawableRight="@mipmap/grayright"
+                    android:paddingBottom="10dp"
+                    android:textColor="@color/gray_666"
+                    android:textSize="16sp"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:text="@string/set_car_type"
+                    android:textColor="@color/gray_999"
+                    android:textSize="14sp"/>
+
+                <RadioGroup
+                    android:id="@+id/group2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/radio2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:button="@drawable/selector_check_box"
+                        android:clickable="false"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="20dp"
+                        android:text="上门收车"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                    <RadioButton
+                        android:id="@+id/set_website"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_alignBaseline="@+id/checkbox2"
+                        android:layout_alignBottom="@+id/checkbox2"
+                        android:button="@drawable/selector_check_box"
+                        android:checked="true"
+                        android:clickable="false"
+                        android:paddingLeft="5dp"
+                        android:text="直送网点"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+                </RadioGroup>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:id="@+id/id_text2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/set_car_address"
+                    android:textColor="@color/gray_999"
+                    android:textSize="14sp"/>
+
+                <TextView
+                    android:id="@+id/set_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_toRightOf="@+id/id_text2"
+                    android:ellipsize="end"
+                    android:gravity="right"
+                    android:singleLine="true"
+                    android:textColor="@color/gray_666"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:text="@string/person_inf"
+                android:textColor="@color/black"
+                android:textSize="16sp"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:id="@+id/text_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:text="@string/user_name"
+                    android:textColor="@color/gray_666"
+                    android:textSize="14sp"/>
+
+                <EditText
+                    android:id="@+id/edit_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toRightOf="@+id/text_name"
+                    android:background="@null"
+                    android:gravity="right|center_vertical"
+                    android:hint="@string/please_input_name"
+                    android:singleLine="true"
+                    android:textColor="@color/gray_999"
+                    android:textColorHint="@color/gray_999"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:id="@+id/text_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:text="@string/user_id"
+                    android:textColor="@color/gray_666"
+                    android:textSize="14sp"/>
+
+                <EditText
+                    android:id="@+id/edit_id"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toRightOf="@+id/text_id"
+                    android:background="@null"
+                    android:gravity="right|center_vertical"
+                    android:hint="@string/please_input_id"
+                    android:maxLength="18"
+                    android:singleLine="true"
+                    android:textColor="@color/gray_999"
+                    android:textColorHint="@color/gray_999"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:id="@+id/text_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:text="@string/user_phone"
+                    android:textColor="@color/gray_666"
+                    android:textSize="14sp"/>
+
+                <EditText
+                    android:id="@+id/edit_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toRightOf="@+id/text_phone"
+                    android:background="@null"
+                    android:gravity="right|center_vertical"
+                    android:hint="@string/please_input_tel"
+                    android:inputType="number"
+                    android:maxLength="11"
+                    android:singleLine="true"
+                    android:textColor="@color/gray_999"
+                    android:textColorHint="@color/gray_999"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+                <TextView
+                    android:id="@+id/text_driving"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:text="@string/user_driving"
+                    android:textColor="@color/gray_666"
+                    android:textSize="14sp"/>
+
+                <EditText
+                    android:id="@+id/edit_driving"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toRightOf="@+id/text_driving"
+                    android:background="@null"
+                    android:gravity="right|center_vertical"
+                    android:hint="@string/please_input_driving"
+                    android:maxLength="12"
+                    android:singleLine="true"
+                    android:textColor="@color/gray_999"
+                    android:textColorHint="@color/gray_999"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

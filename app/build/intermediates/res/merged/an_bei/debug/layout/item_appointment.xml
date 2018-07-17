@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/bg"
+                android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:background="@drawable/border_grey999_bg_white1_rect"
+        android:orientation="vertical">
+
+        <include layout="@layout/item_appointment_top"/>
+        <!--不带支付-->
+        <LinearLayout
+            android:id="@+id/button_linear_two"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:id="@+id/car_use_money"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="•房车使用费 : "
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/pay_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@id/car_use_money"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingTop="3dp">
+
+                    <TextView
+                        android:id="@+id/damages"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="•车辆及保险违约金 : "
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/damages_money"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@id/damages"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingTop="3dp">
+
+                    <TextView
+                        android:id="@+id/service"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="•车辆及保险违约金 : "
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/service_money"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@id/service"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bg_line_00ffffff_bottom_1dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="还需支付 ："
+                    android:textColor="@color/gray_333"
+                    android:textSize="@dimen/text_normal"/>
+
+                <TextView
+                    android:id="@+id/all_money"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/gray_333"
+                    android:textSize="@dimen/text_normal"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal"
+                android:paddingTop="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="温馨提示 ："
+                    android:textColor="@color/gray_333"
+                    android:textSize="11sp"/>
+
+                <TextView
+                    android:id="@+id/tishi2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="请您带上提车人的身份证、驾驶员的驾驶证。办理手续和交接车辆以及熟悉车辆操作需要一个小时左右，请您出行前提前到达预约提车点。"
+                    android:textColor="@color/gray_333"
+                    android:textSize="11sp"/>
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp">
+
+                <Button
+                    android:id="@+id/cancel_order"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:textColor="@color/white"
+                    android:background="@color/yellow"
+                    android:text="取消订单"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <!--带支付-->
+        <LinearLayout
+            android:id="@+id/button_linear_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:id="@+id/tv_use_money"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="•房车使用费 : "
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/tv_pay_number"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@id/tv_use_money"
+                        android:gravity="right"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingTop="3dp">
+
+                    <TextView
+                        android:id="@+id/tv_damages"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="•车辆及保险违约金 : "
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/tv_damages_money"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@id/tv_damages"
+                        android:gravity="right"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                </RelativeLayout>
+                <!--
+                  @Author :xu
+                  修改时间:2016/12/18 20:51
+                  说明：取消“实付”，取消方式：“隐藏状态”
+                -->
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingTop="3dp"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="实付 : "
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/tv_should_pay_money"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentTop="true"
+                        android:gravity="right"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingTop="3dp">
+
+                    <TextView
+                        android:id="@+id/tv_service"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="•服务费及相关附加费: "
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/tv_service_money"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@id/tv_service"
+                        android:gravity="right"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+                </RelativeLayout>
+                <!--
+                  @Author :xu
+                  修改时间:2016/12/18 20:52
+                  说明：取消“实付”，取消方式：“隐藏状态”
+                -->
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingTop="3dp"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/tv_should_pay_service"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="实付 : "
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/tv_should_pay_money_service"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@id/tv_should_pay_service"
+                        android:gravity="right"
+                        android:textColor="@color/gray_666"
+                        android:textSize="14sp"/>
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bg_line_00ffffff_bottom_1dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="还需支付 ："
+                    android:textColor="@color/gray_333"
+                    android:textSize="@dimen/text_normal"/>
+
+                <TextView
+                    android:id="@+id/need_money"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/gray_333"
+                    android:textSize="@dimen/text_normal"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tishi1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:padding="10dp"
+                android:text="您还需要支付相关费用，支付完成后才能正常提车出行。"
+                android:textColor="@color/gray_333"
+                android:textSize="11sp"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp">
+
+                <Button
+                    android:id="@+id/bt_cancel_order"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="取消订单"
+                    android:textColor="@color/white"
+                    android:background="@color/yellow"
+                    android:textSize="14sp"/>
+
+                <Button
+                    android:id="@+id/to_pay"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp"
+                    android:layout_toLeftOf="@+id/bt_cancel_order"
+                    android:background="@color/yellow"
+                    android:text="支付"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

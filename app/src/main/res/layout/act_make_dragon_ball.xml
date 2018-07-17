@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/bg"
+              android:orientation="vertical">
+
+    <include layout="@layout/title_bar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/name"
+            android:textColor="@color/gray_333"
+            android:textSize="16dp"/>
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="@drawable/bg_ffffff_all_1dp"
+            android:gravity="center_vertical"
+            android:hint="@string/please_input_name"
+            android:maxLines="1"
+            android:paddingLeft="5dp"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHint="@color/gray_999"
+            android:textSize="@dimen/text_normal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="手机号："
+            android:textColor="@color/gray_333"
+            android:textSize="16dp"/>
+
+        <EditText
+            android:id="@+id/phone"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="@drawable/bg_gray_all_1dp"
+            android:focusable="false"
+            android:gravity="center_vertical"
+            android:maxLines="1"
+            android:paddingLeft="5dp"
+            android:singleLine="true"
+            android:text="手机号码"
+            android:textColor="@color/black"
+            android:textColorHint="@color/gray_999"
+            android:textSize="@dimen/text_normal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/id"
+            android:textColor="@color/gray_333"
+            android:textSize="16dp"/>
+
+        <EditText
+            android:id="@+id/id_number"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="@drawable/bg_ffffff_all_1dp"
+            android:gravity="center_vertical"
+            android:hint="@string/input_id"
+            android:maxLength="18"
+            android:maxLines="1"
+            android:paddingLeft="5dp"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHint="@color/gray_999"
+            android:textSize="@dimen/text_normal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/referrer"
+            android:textColor="@color/gray_333"
+            android:textSize="16dp"/>
+
+        <EditText
+            android:id="@+id/referrer_number"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="@drawable/bg_ffffff_all_1dp"
+            android:gravity="center_vertical"
+            android:hint="@string/input_referrer"
+            android:inputType="number"
+            android:maxLines="1"
+            android:paddingLeft="5dp"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHint="@color/gray_999"
+            android:textSize="@dimen/text_normal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/text1"
+            android:textColor="@color/gray_333"
+            android:textSize="16dp"/>
+
+        <Button
+            android:id="@+id/but_sure"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/bg_button_rad_r5dp"
+            android:text="确定"
+            android:textSize="16sp"/>
+
+        <Button
+            android:id="@+id/but_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bg_button_gray_r5dp"
+            android:text="取消"
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 主体背景颜色值 -->
+    <item android:bottom="2dp">
+        <shape>
+            <!-- 填充的颜色 -->
+            <solid android:color="#80FFC0" />
+            <corners android:radius="10dip" />
+            <padding
+                android:left="10dp"
+                android:top="10dp"
+                android:right="10dp"
+                android:bottom="10dp"
+                />
+        </shape>
+    </item>
+</layer-list>

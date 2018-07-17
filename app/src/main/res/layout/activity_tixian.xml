@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg">
+
+    <include layout="@layout/title_bar"/>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/iconfont_tixiantit" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="金额"
+                android:textColor="@color/yellow"/>
+
+            <TextView
+                android:id="@+id/tv_money"
+                android:layout_marginLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="0.0"
+                android:textColor="@color/yellow"/>
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/tv_ti_xian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:background="#FE4E4E"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="提现"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_tittle" />
+
+    <TextView
+        android:id="@+id/tv_ti_xian_record"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="#55BC46"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="提现记录"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_tittle" />
+
+
+
+
+</LinearLayout>

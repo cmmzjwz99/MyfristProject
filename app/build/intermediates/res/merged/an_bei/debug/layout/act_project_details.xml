@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.lzhy.moneyhll.gowhere.CampingDetailsActivity">
+
+    <include layout="@layout/title_bar"/>
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar"/>
+
+    <FrameLayout
+        android:id="@+id/emptyLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar"
+        android:gravity="top|center_horizontal"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_vertical">
+
+
+        <RelativeLayout
+            android:id="@+id/rl_phone_refer"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:alpha="0.9"
+            android:background="#E3E3E3">
+            <ImageView
+                android:id="@+id/tp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:alpha="1"
+                android:src="@mipmap/icon_tp"/>
+            <TextView
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/tp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="电话咨询"
+                android:alpha="1"
+                android:textSize="@dimen/text_tittle"
+                android:textColor="@color/black"/>
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_purchase_rush"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:text="立即购买"
+            android:visibility="gone"
+            android:textSize="@dimen/text_tittle"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:background="#eef5a623"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

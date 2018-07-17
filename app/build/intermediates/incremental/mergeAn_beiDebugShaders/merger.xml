@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/hc101/Downloads/moneyhll/app/src/main/shaders"/></dataSet><dataSet config="an_bei"><source path="/Users/hc101/Downloads/moneyhll/app/src/an_bei/shaders"/></dataSet><dataSet config="debug"><source path="/Users/hc101/Downloads/moneyhll/app/src/debug/shaders"/></dataSet><dataSet config="an_beiDebug"><source path="/Users/hc101/Downloads/moneyhll/app/src/an_beiDebug/shaders"/></dataSet></merger>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/bg"
+                android:orientation="vertical">
+
+    <include layout="@layout/title_bar"/>
+
+    <com.lzhy.moneyhll.custom.pulltorefreshlistview.PullToRefreshListView
+        android:id="@+id/recharge_record_lv"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/title_bar"
+        android:layout_height="match_parent">
+    </com.lzhy.moneyhll.custom.pulltorefreshlistview.PullToRefreshListView>
+
+    <FrameLayout
+        android:id="@+id/emptyLayout"
+        android:layout_below="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top|center_horizontal"/>
+</RelativeLayout>

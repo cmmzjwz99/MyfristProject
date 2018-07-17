@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/Users/hc101/Downloads/moneyhll/app/libs/picasso-2.5.2.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/picasso-2.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/app/libs/picasso-2.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

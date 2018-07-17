@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/create_time"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/bg_line_bottom_1dp"
+        android:gravity="center_vertical"
+        android:text="发布时间"
+        android:textColor="@color/gray_999"
+        android:textSize="14sp"/>
+
+    <include layout="@layout/item_home_maker"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1sp"
+        android:layout_margin="10dp"
+        android:background="@color/bg"/>
+
+    <com.lzhy.moneyhll.custom.NoScorllGridView
+        android:id="@+id/status_grid"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:layout_marginTop="10dp"
+        android:layout_margin="10dp"
+        android:horizontalSpacing="2dp"
+        android:numColumns="2"
+        android:verticalSpacing="2dp"/>
+
+    <TextView
+        android:id="@+id/income"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center_horizontal"
+        android:text="收入："
+        android:textColor="@color/red"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center_horizontal"
+        android:paddingBottom="15dp"
+        android:paddingTop="5dp"
+        android:text="已完结订单×项目结算价=收入"
+        android:textColor="#bbb"
+        android:textSize="12sp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@drawable/bg_top_bottom_ddd_1dp"/>
+</LinearLayout>

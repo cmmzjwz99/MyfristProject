@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical"
+    tools:context="com.lzhy.moneyhll.home.makerproject.BuyProjectActivity">
+
+    <include layout="@layout/title_bar"/>
+
+    <include layout="@layout/item_home_maker"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="购买份数"
+            android:textColor="@color/gray_666"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/sign_up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:drawableRight="@mipmap/iconfont_jiahao"
+            android:paddingRight="10dp"
+            android:text=" "
+            android:textColor="@color/gray_333"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/number"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/sign_up"
+            android:gravity="center"
+            android:text="1"
+            android:textColor="@color/gray_333"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/sign_dowm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/number"
+            android:drawableLeft="@mipmap/iconfont_del"
+            android:text=" "
+            android:textColor="@color/gray_333"
+            android:textSize="14sp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingRight="10dp">
+
+        <TextView
+            android:id="@+id/all"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text=""
+            android:textColor="@color/red"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/all_money"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/all"
+            android:gravity="center"
+            android:text="小计 ¥"
+            android:textColor="@color/red"
+            android:textSize="14sp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_choose_address"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <RelativeLayout
+            android:id="@+id/rl_choose_address1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/choose_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:textColor="@color/gray_666"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:id="@+id/choose_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:gravity="center_vertical"
+                android:textColor="@color/gray_666"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:id="@+id/choose_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/choose_name"
+                android:gravity="center_vertical"
+                android:paddingTop="5dp"
+                android:textColor="@color/gray_666"
+                android:textSize="14sp"/>
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/to_choose_address"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableRight="@mipmap/grayright"
+            android:gravity="center_vertical"
+            android:text="请填写收货地址："
+            android:textColor="@color/gray_333"
+            android:textSize="14sp"/>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/to_pay"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bg_button_rad_r5dp"
+        android:text="去支付"
+        android:textColor="@color/white"
+        android:textSize="14sp"/>
+
+</LinearLayout>

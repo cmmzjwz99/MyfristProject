@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/bg"
+              android:orientation="vertical">
+
+    <include layout="@layout/title_bar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@color/white"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <RadioButton
+                android:id="@+id/rb_a1"
+                style="@style/group_styles"
+                android:checked="true"
+                android:drawablePadding="3dp"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="代缴清"/>
+
+            <RadioButton
+                android:id="@+id/rb_a2"
+                style="@style/group_styles"
+                android:drawablePadding="3dp"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="待提车"/>
+
+            <RadioButton
+                android:id="@+id/rb_a3"
+                style="@style/group_styles"
+                android:drawablePadding="3dp"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="旅途中"/>
+
+            <RadioButton
+                android:id="@+id/rb_a4"
+                style="@style/group_styles"
+                android:drawablePadding="3dp"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="待结算"/>
+
+            <RadioButton
+                android:id="@+id/rb_a5"
+                style="@style/group_styles"
+                android:drawablePadding="3dp"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="已完结"/>
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/myviewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fafafa"/>
+</LinearLayout>

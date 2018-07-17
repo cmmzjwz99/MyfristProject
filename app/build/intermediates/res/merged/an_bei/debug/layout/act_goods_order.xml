@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@null"
+              android:orientation="vertical">
+    <include layout="@layout/title_bar"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="@drawable/bg_line_bottom_1dp"
+        android:orientation="horizontal">
+
+        <RadioGroup
+            android:id="@+id/tabs_rg1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <RadioButton
+                android:id="@+id/all_order"
+                style="@style/tabhost_styles_collect"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_line"
+                android:gravity="center"
+                android:text="全部"
+                android:checked="true"
+                android:textColor="@drawable/tab_text_color"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/wait_shipments"
+                style="@style/tabhost_styles_collect"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_line"
+                android:gravity="center"
+                android:text="待发货"
+                android:textColor="@drawable/tab_text_color"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/wait_sign"
+                style="@style/tabhost_styles_collect"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_line"
+                android:gravity="center"
+                android:text="待签收"
+                android:textColor="@drawable/tab_text_color"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/after_sign"
+                style="@style/tabhost_styles_collect"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_line"
+                android:gravity="center"
+                android:text="已签收"
+                android:textColor="@drawable/tab_text_color"
+                android:textSize="15sp"/>
+
+            <RadioButton
+                android:id="@+id/after_end"
+                style="@style/tabhost_styles_collect"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_line"
+                android:gravity="center"
+                android:text="已完结"
+                android:textColor="@drawable/tab_text_color"
+                android:textSize="15sp"/>
+            <RadioButton
+                android:id="@+id/after_sales"
+                style="@style/tabhost_styles_collect"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_line"
+                android:gravity="center"
+                android:text="退换货"
+                android:textColor="@drawable/tab_text_color"
+                android:textSize="15sp"/>
+        </RadioGroup>
+
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/myviewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fafafa"/>
+
+</LinearLayout>

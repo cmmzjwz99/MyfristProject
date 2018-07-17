@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="com.lzhy.moneyhll.gowhere.SelectorCampActivity">
+    <include layout="@layout/item_go_where_head1"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="热门搜索"
+        android:textColor="@color/gray_666" android:textSize="13sp"/>
+    <com.lzhy.moneyhll.custom.NoScorllGridView
+        android:id="@+id/grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/white"
+        android:horizontalSpacing="10dp"
+        android:numColumns="4"
+        android:scrollbars="none"
+        android:verticalSpacing="10dp"/>w
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:lineSpacingExtra="3dp"
+        android:paddingTop="20dp"
+        android:text="您可以在搜索框内输入具体目的地，也可以点击热门省份搜索露营地哦~"
+        android:textColor="@color/gray_666"
+        android:textSize="13sp"/>
+</LinearLayout>

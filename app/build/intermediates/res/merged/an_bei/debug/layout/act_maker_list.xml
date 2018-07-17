@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    tools:context="com.lzhy.moneyhll.home.makerproject.MakerListActivity">
+
+    <include layout="@layout/title_bar"/>
+
+    <com.lzhy.moneyhll.custom.pulltorefreshlistview.PullToRefreshListView
+        android:id="@+id/itemlist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar"/>
+    <FrameLayout
+        android:layout_below="@+id/title_bar"
+        android:id="@+id/emptyLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top|center_horizontal"/>
+</RelativeLayout>

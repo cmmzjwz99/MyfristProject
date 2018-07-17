@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.lzhy.moneyhll.gowhere.CampingDetailsActivity">
+
+    <include layout="@layout/title_bar"/>
+
+    <Button
+        android:id="@+id/suer_pay"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="我要购买"
+        android:background="@color/yellow"
+        android:layout_alignParentBottom="true"/>
+    <FrameLayout
+        android:layout_above="@+id/suer_pay"
+        android:id="@+id/emptyLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar"
+        android:gravity="top|center_horizontal"/>
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/suer_pay"
+        android:layout_below="@+id/title_bar"/>
+</RelativeLayout>

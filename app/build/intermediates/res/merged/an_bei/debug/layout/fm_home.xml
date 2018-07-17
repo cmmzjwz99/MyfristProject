@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                xmlns:ptr="http://schemas.android.com/apk/res-auto"
+                android:background="@color/white"
+                android:orientation="vertical">
+    <com.lzhy.moneyhll.custom.pulltorefreshlistview.PullToRefreshListView
+        android:id="@+id/itemlist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar"
+        android:divider="#e7e7e7"
+        android:dividerHeight="0dp"
+        ptr:ptrDrawable="@mipmap/default_ptr_rotate"
+        ptr:ptrHeaderBackground="@color/white"
+        ptr:ptrHeaderTextColor="@color/black"/>
+</RelativeLayout>

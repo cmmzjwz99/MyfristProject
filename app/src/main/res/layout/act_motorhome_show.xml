@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:ptr="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/line"
+                android:orientation="vertical">
+
+    <include layout="@layout/title_bar"/>
+
+    <com.lzhy.moneyhll.custom.pulltorefreshlistview.PullToRefreshListView
+        android:id="@+id/lv_go_where"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar"
+        android:background="@color/bg"
+        ptr:ptrDrawable="@mipmap/default_ptr_rotate"
+        ptr:ptrHeaderBackground="@color/white"
+        ptr:ptrHeaderTextColor="@color/black"/>
+
+    <FrameLayout
+        android:id="@+id/emptyLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar"
+        android:gravity="top|center_horizontal"/>
+</RelativeLayout>

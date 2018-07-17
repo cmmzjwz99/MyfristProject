@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\res\\merged\\an_bei\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/D:\\Dragon\\lzyapp\\code\\moneyhll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/res/merged/an_bei/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/hc101/Downloads/moneyhll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

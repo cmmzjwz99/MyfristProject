@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <include layout="@layout/title_bar"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="@drawable/bg_line_bottom_1dp"
+        android:orientation="horizontal">
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#fff"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_wait_pay"
+                style="@style/MainBottomRadioButton"
+                android:background="@drawable/selector_line"
+                android:checked="true"
+                android:text="待支付"/>
+
+            <RadioButton
+                android:id="@+id/rb_wait_used"
+                style="@style/MainBottomRadioButton"
+                android:background="@drawable/selector_line"
+                android:text="待使用"/>
+
+            <RadioButton
+                android:id="@+id/rb_has_finished"
+                style="@style/MainBottomRadioButton"
+                android:background="@drawable/selector_line"
+                android:text="已使用"/>
+            <RadioButton
+                android:id="@+id/rb_has_end"
+                style="@style/MainBottomRadioButton"
+                android:background="@drawable/selector_line"
+                android:text="已完结"/>
+
+
+            <RadioButton
+                android:id="@+id/rb_has_failure"
+                style="@style/MainBottomRadioButton"
+                android:background="@drawable/selector_line"
+                android:text="已失效"/>
+
+        </RadioGroup>
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/myviewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fafafa"/>
+</LinearLayout>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_line_bottom_1dp"
+                android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="name"
+            android:textColor="@color/black"
+            android:textColorHint="@color/gray_999"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/tv_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:lines="1"
+            android:paddingTop="3dp"
+            android:text="phone"
+            android:textColor="@color/black"
+            android:textSize="14sp"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear"
+        android:lines="1"
+        android:padding="10dp"
+        android:paddingTop="3dp"
+        android:text="phone"
+        android:textColor="@color/black"
+        android:textSize="14sp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_address"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp">
+
+        <CheckBox
+            android:id="@+id/default_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/selector_check_box"
+            android:checked="false"
+            android:text="  默认地址"
+            android:textColor="@color/gray_666"
+            android:textColorHint="@color/gray_999"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:drawableLeft="@mipmap/address_cancel"
+            android:id="@+id/tv_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:lines="1"
+            android:paddingLeft="8dp"
+            android:text=" 删除"
+            android:textColor="@color/gray_333"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:drawableLeft="@mipmap/address_change"
+            android:id="@+id/tv_change"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/tv_cancel"
+            android:lines="1"
+            android:paddingRight="8dp"
+            android:text=" 编辑"
+            android:textColor="@color/gray_333"
+            android:textSize="14sp"/>
+    </RelativeLayout>
+</RelativeLayout>

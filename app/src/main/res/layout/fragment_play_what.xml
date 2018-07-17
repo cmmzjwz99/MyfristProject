@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:orientation="vertical">
+
+    <include layout="@layout/title_bar"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar">
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/title_play"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:paddingTop="20dp"
+                android:text="挑个您想体验的高端休旅吧!"
+                android:textColor="@color/gray_999"
+                android:textSize="@dimen/text_play"/>
+
+
+            <com.lzhy.moneyhll.custom.NoScorllGridView
+                android:id="@+id/gv_play_what"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/title_play"
+                android:listSelector="@color/grid_bg"
+                android:numColumns="3"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="15dp"
+                android:verticalSpacing="15dp"/>
+
+            <FrameLayout
+                android:layout_marginTop="130dp"
+                android:id="@+id/emptyLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/title_play"
+                android:gravity="top|center_horizontal"/>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

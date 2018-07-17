@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/bg"
+              android:orientation="vertical">
+
+    <include layout="@layout/title_bar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white">
+
+        <LinearLayout
+            android:background="@drawable/bg_line_bottom_1dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/txt_shallowgray_14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:text="开户行"/>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="18dp"
+                android:layout_marginTop="18dp"
+                android:background="@color/gray_999"/>
+
+            <TextView
+                android:id="@+id/tv_select_pro"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="16dp"
+                android:layout_weight="1"
+                android:drawableRight="@mipmap/ic_down"
+                android:paddingBottom="16dp"
+                android:paddingLeft="16dp"
+                android:paddingTop="16dp"
+                android:text="工商银行"
+                android:textColor="@color/black"
+                android:textSize="14sp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/bg_line_bottom_1dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="15dp">
+
+
+            <EditText
+                android:id="@+id/et_information"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:ellipsize="end"
+                android:hint="开户行网点信息"
+                android:lines="1"
+                android:textColor="@color/black"
+                android:textColorHint="@color/gray_999"
+                android:textSize="@dimen/text_normal"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/bg_line_bottom_1dp"
+            android:orientation="horizontal"
+            android:paddingLeft="15dp"
+            android:gravity="center_vertical">
+
+            <EditText
+                android:id="@+id/et_user_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="请输入转入用户姓名"
+                android:textColor="@color/black"
+                android:background="@null"
+                android:textColorHint="@color/gray_999"
+                android:textSize="@dimen/text_normal"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/bg_line_bottom_1dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="15dp">
+
+
+            <EditText
+                android:inputType="number"
+                android:id="@+id/et_user_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:ellipsize="end"
+                android:hint="请输入转入银行卡号"
+                android:lines="1"
+                android:maxLength="20"
+                android:textColor="@color/black"
+                android:textColorHint="@color/gray_999"
+                android:textSize="@dimen/text_normal"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="15dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:background="@drawable/bg_line_bottom_1dp">
+
+
+            <EditText
+                android:inputType="number"
+                android:id="@+id/et_min_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:ellipsize="end"
+                android:hint="请输入提现金额，最低提现金额1元"
+                android:lines="1"
+                android:textColor="@color/black"
+                android:textColorHint="@color/gray_999"
+                android:textSize="@dimen/text_normal"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_choose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_button_rad_r5dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="确 认"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_tittle"/>
+
+    <TextView
+        android:id="@+id/tv_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_button_gray_r5dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="取 消"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_tittle"/>
+
+
+</LinearLayout>

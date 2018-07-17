@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:fresco="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="40dp"
+                    android:background="@mipmap/bg_my_earning">
+                </RelativeLayout>
+
+                <com.facebook.drawee.view.SimpleDraweeView
+                    android:id="@+id/head_image"
+                    android:layout_width="56dp"
+                    android:layout_height="56dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="14dp"
+                    android:background="@mipmap/ic_mine"
+                    fresco:failureImage="@mipmap/ic_mine"
+                    fresco:roundAsCircle="true"
+                    fresco:roundedCornerRadius="45dp"
+                    fresco:roundingBorderColor="@color/white"
+                    fresco:roundingBorderWidth="1dp"/>
+
+                <TextView
+                    android:id="@+id/text_type"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/head_image"
+                    android:layout_centerHorizontal="true"
+                    android:paddingTop="10dp"
+                    android:text="总收益（龙币）"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"/>
+
+                <TextView
+                    android:layout_width="20dp"
+                    android:layout_height="1dp"
+                    android:layout_below="@+id/text_type"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="4dp"
+                    android:background="@color/white"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"/>
+
+                <TextView
+                    android:id="@+id/all_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text_type"
+                    android:layout_centerHorizontal="true"
+                    android:paddingTop="13dp"
+                    android:text="0.0"
+                    android:textColor="@color/white"
+                    android:textSize="33sp"/>
+
+                <RelativeLayout
+                    android:id="@+id/relative"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/all_number">
+
+                    <TextView
+                        android:id="@+id/can_extract"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="13dp"
+                        android:paddingLeft="35dp"
+                        android:text="可提收益"
+                        android:textColor="@color/white"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/can_extract_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="13dp"
+                        android:layout_toRightOf="@+id/can_extract"
+                        android:paddingLeft="18dp"
+                        android:text="0.0"
+                        android:textColor="@color/white"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/to_extract"
+                        android:layout_width="65dp"
+                        android:layout_height="24dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="35dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/bg_00ffffff_1dp_r5dp"
+                        android:gravity="center"
+                        android:text="提现"
+                        android:textColor="@color/white"
+                        android:textSize="14sp"/>
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/all_number"
+                android:layout_marginBottom="18dp"
+                android:layout_marginTop="22dp">
+
+                <TextView
+                    android:id="@+id/text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="收益直线图"
+                    android:textColor="@color/gray_333"
+                    android:textSize="14sp"/>
+
+                <TextView
+                    android:id="@+id/line_right"
+                    android:layout_width="13dp"
+                    android:layout_height="1dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="6dp"
+                    android:layout_toRightOf="@+id/text"
+                    android:background="@color/gray_666"/>
+
+                <TextView
+                    android:id="@+id/line_left"
+                    android:layout_width="13dp"
+                    android:layout_height="1dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="6dp"
+                    android:layout_toLeftOf="@+id/text"
+                    android:background="@color/gray_666"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/all_number"
+                android:gravity="center_horizontal"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/day_earnings"
+                    android:layout_width="58dp"
+                    android:layout_height="27dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginRight="23dp"
+                    android:background="@color/yellow"
+                    android:gravity="center"
+                    android:text="日收益"
+                    android:textColor="@color/white"/>
+
+                <TextView
+                    android:id="@+id/month_earnings"
+                    android:layout_width="58dp"
+                    android:layout_height="27dp"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/day_earnings"
+                    android:background="@color/line"
+                    android:gravity="center"
+                    android:text="月收益"
+                    android:textColor="@color/white"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/relativelayout"
+                android:layout_width="match_parent"
+                android:layout_height="281dp"
+                android:background="@drawable/bg_ffffff_all_1dp">
+
+                <com.github.mikephil.charting.charts.LineChart
+                    android:id="@+id/lineChart"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    />
+
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

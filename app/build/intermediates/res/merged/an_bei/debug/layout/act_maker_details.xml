@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical"
+    tools:context="com.lzhy.moneyhll.gowhere.CampingDetailsActivity">
+
+    <include layout="@layout/title_bar"/>
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.lzhy.moneyhll.custom.MakerWebView
+                android:id="@+id/webview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:id="@+id/linear_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:orientation="vertical"
+                android:paddingBottom="5dp">
+
+                <TextView
+                    android:id="@+id/tv_top"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:drawableLeft="@mipmap/maker_make_order"
+                    android:drawablePadding="5dp"
+                    android:gravity="bottom"
+                    android:paddingBottom="5dp"
+                    android:text="体验极速下单"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_tittle"/>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/bg_00ffffff_1dp_r5dp"
+                    android:focusableInTouchMode="true">
+
+                    <TextView
+                        android:id="@+id/tv_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:drawablePadding="5dp"
+                        android:text="姓名："
+                        android:textColor="@color/black"
+                        android:textSize="14sp"/>
+
+                    <EditText
+                        android:id="@+id/et_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/tv_name"
+                        android:background="@null"
+                        android:ellipsize="end"
+                        android:hint="请输入您的姓名"
+                        android:lines="1"
+                        android:minHeight="35dp"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/gray_999"
+                        android:textCursorDrawable="@null"
+                        android:textSize="14sp"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/bg_00ffffff_1dp_r5dp"
+                    android:focusableInTouchMode="true">
+
+                    <Button
+                        android:id="@+id/get_pass_code"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:background="@drawable/bg_button_rad2_r5dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="获取验证码"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/tv_phone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:drawablePadding="5dp"
+                        android:text="手机号："
+                        android:textColor="@color/black"
+                        android:textSize="14sp"/>
+
+                    <EditText
+                        android:id="@+id/et_phone"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/get_pass_code"
+                        android:layout_toRightOf="@+id/tv_phone"
+                        android:background="@null"
+                        android:hint="请输入您的手机号"
+                        android:inputType="phone"
+                        android:lines="1"
+                        android:minHeight="35dp"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/gray_999"
+                        android:textCursorDrawable="@null"
+                        android:textSize="14sp"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/bg_00ffffff_1dp_r5dp"
+                    android:focusableInTouchMode="true">
+
+                    <TextView
+                        android:id="@+id/tv_pass_code"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:drawablePadding="5dp"
+                        android:text="短信验证码："
+                        android:textColor="@color/black"
+                        android:textSize="14sp"/>
+
+                    <EditText
+                        android:id="@+id/et_pass_code"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/tv_pass_code"
+                        android:background="@null"
+                        android:hint="请输入短信验证码"
+                        android:inputType="number"
+                        android:lines="1"
+                        android:minHeight="35dp"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/gray_999"
+                        android:textCursorDrawable="@null"
+                        android:textSize="14sp"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/bg_00ffffff_1dp_r5dp"
+                    android:focusableInTouchMode="true"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/tv_address"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:drawablePadding="5dp"
+                        android:text="收货地址："
+                        android:textColor="@color/black"
+                        android:textSize="14sp"/>
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/tv_address"
+                        android:background="@null"
+                        android:hint="请输入您的收货地址"
+                        android:lines="1"
+                        android:minHeight="35dp"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/gray_999"
+                        android:textCursorDrawable="@null"
+                        android:textSize="14sp"/>
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/make_order"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_button_rad_r5dp"
+                android:text="提交订单"
+                android:textColor="@color/white"
+                android:textSize="16sp"/>
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>
